@@ -1,0 +1,18 @@
+body {
+    background-color: rgb(186, 232, 188);
+    color: rgb(57, 34, 34);
+    font-family: sans-serif;
+}
+
+#about {
+    display: flex;
+}
+
+.col {
+    flex: 1;
+    padding: 40px;
+}
+
+.right {
+    flex: 2;
+}
