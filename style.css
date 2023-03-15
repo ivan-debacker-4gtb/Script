@@ -1,16 +1,18 @@
 body {
-    background-color: rgb(186, 232, 188);
+    background-color: rgb(247, 247, 247);
     color: rgb(57, 34, 34);
     font-family: sans-serif;
 }
 
 #about {
     display: flex;
+    margin: 80px;
+    background-color: rgb(191, 191, 191);
 }
 
 .col {
     flex: 1;
-    padding: 40px;
+    padding: 40px 10px;
 }
 
 .right {
