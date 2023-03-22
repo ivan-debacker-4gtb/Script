@@ -29,7 +29,7 @@ header nav li {
 }
 
 header img {
-        width: 12px;
+        width: 70px;
 
 }
 
@@ -54,3 +54,10 @@ header a {
 header a :hover {
         color: black;
 }
+video {
+   width: 100%;
+}
+.videoframe {
+        overflow: hidden
+        max-height: 1000px
+} 
